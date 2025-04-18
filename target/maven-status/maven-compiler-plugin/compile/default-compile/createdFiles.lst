@@ -1,0 +1,5 @@
+com/example/brewerydashboard/repository/DataRepository.class
+com/example/brewerydashboard/BreweryDashboardApplication.class
+com/example/brewerydashboard/service/DashboardService.class
+com/example/brewerydashboard/controller/DashboardController.class
+com/example/brewerydashboard/model/BreweryData.class
